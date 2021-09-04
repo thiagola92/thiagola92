@@ -1,26 +1,3 @@
-# About me
+![Thiago's GitHub stats](https://github-readme-stats.vercel.app/api?username=thiagola92&show_icons=true&theme=default)
 
-<details>
-    <summary>How non programmers see me</summary>
-    <img src="gifs/spoiler_01.gif">
-</details>
-
-<details>
-    <summary>How interns see me</summary>
-    <img src="gifs/spoiler_02.gif">
-</details>
-
-<details>
-    <summary>How seniors see me</summary>
-    <img src="gifs/spoiler_03.gif">
-</details>
-
-<details>
-    <summary>How i see myself</summary>
-    <img src="gifs/spoiler_04.gif">
-</details>
-
-<details>
-    <summary>How i am</summary>
-    <img src="gifs/spoiler_05.gif">
-</details>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagola92&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
