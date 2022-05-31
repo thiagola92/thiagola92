@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./github-header-image-dark.png">
-  <img alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="./github-header-image-light.png">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/thiagola92/thiagola92/raw/main/github-header-image-dark.png">
+  <img alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="https://github.com/thiagola92/thiagola92/raw/main/github-header-image-light.png">
 </picture>  
 
 ![Thiago's GitHub stats](https://github-readme-stats.vercel.app/api?username=thiagola92&show_icons=true&theme=default&count_private=true)  
