@@ -1,5 +1,5 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/la-catalog/.github/raw/main/res/title_dark.png">
+  <source media="(prefers-color-scheme: dark)" srcset="./github-header-image-dark.png">
   <img alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="./github-header-image-light.png">
 </picture>  
 
