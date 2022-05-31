@@ -12,5 +12,3 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagola92&layout=compact&count_private=true&theme=dark">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagola92&layout=compact&count_private=true">
 </picture>  
-
-<sub>[TODO: Overwrite some languages like LLVM, C++](https://github.com/github/linguist/blob/master/docs/overrides.md)</sub>  
