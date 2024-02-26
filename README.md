@@ -1,4 +1,2 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/thiagola92/thiagola92/raw/main/github-header-image-dark.png">
-  <img src="https://github.com/thiagola92/thiagola92/raw/main/github-header-image-light.png">
-</picture>  
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thiagola92)  
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=thiagola92) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=thiagola92&utcOffset=-3)  
