@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="250" height="250" viewBox="0 0 1000 1000" enable-background="new 0 0 1000 1000" xml:space="preserve"><rect x="0" y="0" rx="333.33334" ry="333.33334" width="1000" height="1000" fill="rgb(255,255,255)" opacity="1.0" />
+<!-- PIX start -->
 <rect x="0" y="0" rx="166.66667" ry="166.66667" width="1000" height="1000" fill="rgb(0,106,255)" opacity="1.0" />
 <rect x="50" y="50" rx="138.46153" ry="138.46153" width="900" height="900" fill="rgb(255,255,255)" opacity="1.0" />
 <g transform="translate(120,120) scale(0.76000005,0.76000005)">
@@ -1280,4 +1281,5 @@
 <rect x="40" y="960" rx="20.0" ry="20.0" width="60" height="60" fill="rgb(0,106,255)" opacity="1.0" />
 </svg>
 </g>
+<!-- PIX end-->
 </svg>
