@@ -1,0 +1,2 @@
+# References
+- https://genqrcode.com/
