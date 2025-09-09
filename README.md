@@ -5,6 +5,8 @@
 
 <details>
 <summary>Donations methods</summary>
+
 ![](https://raw.githubusercontent.com/thiagola92/thiagola92/main/profile-donation/text.svg)  
+
 </details>
 </div>
