@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="400" height="320" viewBox="0 0 400 320">
 <style>* {font-family: 'Segoe UI', Ubuntu, "Helvetica Neue", Sans-Serif}</style>
-<text x="20" y="40" style="fill: #417E87; font-size: 14px;">At the moment I'm only accepting PIX (🇧🇷): </text>
+<text x="20" y="40" style="fill: #417E87; font-size: 14px;">At the moment I only have PIX (🇧🇷): </text>
 
 <g transform="translate(20, 60) scale(0.25, 0.25)">
     <!-- PIX start -->
