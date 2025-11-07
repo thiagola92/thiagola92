@@ -5,12 +5,12 @@
 
 <details>
 <summary>Donations methods</summary>
+<br/>
 
-♥️ Github Sponsor:  
-https://github.com/sponsors/thiagola92  
+♥️ [Github Sponsor](https://github.com/sponsors/thiagola92)  
 
 🇧🇷 Brazil PIX:  
-![](https://raw.githubusercontent.com/thiagola92/thiagola92/main/profile-donation/text.svg)  
+![](https://raw.githubusercontent.com/thiagola92/thiagola92/main/profile-donation/pix.svg)  
 
 </details>
 </div>
