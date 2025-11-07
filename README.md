@@ -6,6 +6,10 @@
 <details>
 <summary>Donations methods</summary>
 
+♥️ Github Sponsor:  
+https://github.com/sponsors/thiagola92  
+
+🇧🇷 Brazil PIX:  
 ![](https://raw.githubusercontent.com/thiagola92/thiagola92/main/profile-donation/text.svg)  
 
 </details>

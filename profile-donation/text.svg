@@ -1,8 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="400" height="320" viewBox="0 0 400 320">
-<style>* {font-family: 'Segoe UI', Ubuntu, "Helvetica Neue", Sans-Serif}</style>
-<text x="20" y="40" style="fill: #417E87; font-size: 14px;">At the moment I only have PIX (🇧🇷): </text>
+<svg xmlns="http://www.w3.org/2000/svg" width="250" height="250">
 
-<g transform="translate(20, 60) scale(0.25, 0.25)">
+<g transform="scale(0.25, 0.25)">
     <!-- PIX start -->
     <rect x="0" y="0" rx="166.66667" ry="166.66667" width="1000" height="1000" fill="rgb(0,106,255)" opacity="1.0" />
     <rect x="50" y="50" rx="138.46153" ry="138.46153" width="900" height="900" fill="rgb(255,255,255)" opacity="1.0" />
