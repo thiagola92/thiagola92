@@ -9,6 +9,8 @@
 
 ♥️ [Github Sponsor](https://github.com/sponsors/thiagola92)  
 
+☕ [Ko-fi](https://ko-fi.com/thiagola92)
+
 🇧🇷 Brazil PIX:  
 ![](https://raw.githubusercontent.com/thiagola92/thiagola92/main/profile-donation/pix.svg)  
 
